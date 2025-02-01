@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dinesh-Maruthai
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DSA with Java
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me dineshmaruthai24@gmail.com
 - 
